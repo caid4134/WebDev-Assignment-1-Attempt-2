@@ -2,7 +2,7 @@
 
 Group Members: David Cai
 
-Link to website:https://caid4134.github.io/WebDev-Assignment-1-Attempt-2/books.html
+Link to website:https://caid4134.github.io/WebDev-Assignment-1-Attempt-2/homepage.html
 
 -Something went wrong with my git, it's no longer updating my branches and the only way i can upload anything is by direct upload
 
