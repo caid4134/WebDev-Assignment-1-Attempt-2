@@ -1,0 +1,22 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(2, 76, 110);
+  text-align: center;
+}
+
+img {
+    border-radius: 15px;
+  }
+  .button {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f14f41;
+    border: none;
+    padding: 8px 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button2:hover {
+    background-color: rgb(2, 76, 110);
+    color: white;
+  }

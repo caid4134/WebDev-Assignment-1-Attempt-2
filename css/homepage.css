@@ -1,0 +1,16 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(2, 76, 110);
+  text-align: center;
+}
+table, th, td {
+    background-color: #16e495;
+    margin-left: auto;
+    margin-right: auto;
+    border:1px solid black;
+    text-align:center;
+  }
+
+img {
+    border-radius: 15px;
+  }
