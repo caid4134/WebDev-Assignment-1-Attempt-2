@@ -3,6 +3,12 @@ body {
   background-color: rgb(2, 76, 110);
   text-align: center;
 }
+
+p {
+   font-size: 20px;
+}
+
+
 table, th, td {
     background-color: #16e495;
     margin-left: auto;
